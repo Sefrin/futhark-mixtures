@@ -1,4 +1,4 @@
-import "mixture"
+import "mixture/mixture"
 
 module em (distribution: mixture) = {
 
